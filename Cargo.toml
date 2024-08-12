@@ -1,0 +1,9 @@
+[package]
+name = "topbar"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "*"
+egui = "*"
+chrono="0.4.38"
